@@ -2,6 +2,6 @@ package org.example;
 
 public class Argentina {
     public static void main(String[] args) {
-        System.out.println("jkkajakal;a");
+        System.out.println("Argentina bye bye!!!");
     }
 }
