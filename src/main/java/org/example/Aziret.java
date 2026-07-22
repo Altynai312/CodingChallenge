@@ -1,7 +1,7 @@
 package org.example;
 
-public class Argentina {
+public class Aziret {
     public static void main(String[] args) {
-        System.out.println("Spain is champ");
+        System.out.println("Azirett");
     }
 }
